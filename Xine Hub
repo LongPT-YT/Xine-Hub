@@ -1,12 +1,8 @@
-aNotepad aNotepad
-
-GIAO DIỆN MENU ZINGMOD
-Share
 loadstring(game:HttpGet(("https://raw.githubusercontent.com/daucobonhi/Ui-Redz-V2/refs/heads/main/UiREDzV2.lua")))()
 
        local Window = MakeWindow({
          Hub = {
-         Title = "DANH VINH",
+         Title = "Xine Hub",
          Animation = "2001"
          },
         Key = {
